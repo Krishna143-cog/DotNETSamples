@@ -1,0 +1,7 @@
+E:\Freelancing 2020\hANDS-ON\AutoPropertyInitializerDemo\ConsoleApp2\bin\Debug\ConsoleApp2.exe.config
+E:\Freelancing 2020\hANDS-ON\AutoPropertyInitializerDemo\ConsoleApp2\bin\Debug\ConsoleApp2.exe
+E:\Freelancing 2020\hANDS-ON\AutoPropertyInitializerDemo\ConsoleApp2\bin\Debug\ConsoleApp2.pdb
+E:\Freelancing 2020\hANDS-ON\AutoPropertyInitializerDemo\ConsoleApp2\obj\Debug\ConsoleApp2.csprojAssemblyReference.cache
+E:\Freelancing 2020\hANDS-ON\AutoPropertyInitializerDemo\ConsoleApp2\obj\Debug\ConsoleApp2.csproj.CoreCompileInputs.cache
+E:\Freelancing 2020\hANDS-ON\AutoPropertyInitializerDemo\ConsoleApp2\obj\Debug\ConsoleApp2.exe
+E:\Freelancing 2020\hANDS-ON\AutoPropertyInitializerDemo\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
