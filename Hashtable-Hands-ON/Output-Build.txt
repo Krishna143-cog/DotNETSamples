@@ -1,0 +1,3 @@
+﻿1>------ Build started: Project: Hashtable-Hands-ON, Configuration: Debug Any CPU ------
+1>  Hashtable-Hands-ON -> E:\Freelancing 2020\hANDS-ON\Hashtable-Hands-ON\Hashtable-Hands-ON\bin\Debug\Hashtable-Hands-ON.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
