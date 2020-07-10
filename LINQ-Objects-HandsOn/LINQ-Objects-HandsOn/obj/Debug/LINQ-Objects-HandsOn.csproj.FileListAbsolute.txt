@@ -1,0 +1,7 @@
+E:\Freelancing 2020\hANDS-ON\LINQ-Objects-HandsOn\LINQ-Objects-HandsOn\bin\Debug\LINQ-Objects-HandsOn.exe.config
+E:\Freelancing 2020\hANDS-ON\LINQ-Objects-HandsOn\LINQ-Objects-HandsOn\bin\Debug\LINQ-Objects-HandsOn.exe
+E:\Freelancing 2020\hANDS-ON\LINQ-Objects-HandsOn\LINQ-Objects-HandsOn\bin\Debug\LINQ-Objects-HandsOn.pdb
+E:\Freelancing 2020\hANDS-ON\LINQ-Objects-HandsOn\LINQ-Objects-HandsOn\obj\Debug\LINQ-Objects-HandsOn.csprojAssemblyReference.cache
+E:\Freelancing 2020\hANDS-ON\LINQ-Objects-HandsOn\LINQ-Objects-HandsOn\obj\Debug\LINQ-Objects-HandsOn.csproj.CoreCompileInputs.cache
+E:\Freelancing 2020\hANDS-ON\LINQ-Objects-HandsOn\LINQ-Objects-HandsOn\obj\Debug\LINQ-Objects-HandsOn.exe
+E:\Freelancing 2020\hANDS-ON\LINQ-Objects-HandsOn\LINQ-Objects-HandsOn\obj\Debug\LINQ-Objects-HandsOn.pdb

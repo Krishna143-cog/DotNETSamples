@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "n1o/E+FgLk0zilduT9Dh92YmxQWS2nqmXe4KRWZBXeml16ldUtE+wkVtu4kJtKJ38G1jYPGbQNVAuMp9Aj/3PA==",
+  "success": true,
+  "projectFilePath": "E:\\Freelancing 2020\\hANDS-ON\\CorporateUniversity\\CorporateUniversityLibrary\\CorporateUniversityLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
