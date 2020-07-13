@@ -1,0 +1,7 @@
+E:\Freelancing 2020\hANDS-ON\HandsOn_StoredProcedure\HandsOn_StoredProcedure\bin\Debug\HandsOn_StoredProcedure.exe.config
+E:\Freelancing 2020\hANDS-ON\HandsOn_StoredProcedure\HandsOn_StoredProcedure\bin\Debug\HandsOn_StoredProcedure.exe
+E:\Freelancing 2020\hANDS-ON\HandsOn_StoredProcedure\HandsOn_StoredProcedure\bin\Debug\HandsOn_StoredProcedure.pdb
+E:\Freelancing 2020\hANDS-ON\HandsOn_StoredProcedure\HandsOn_StoredProcedure\obj\Debug\HandsOn_StoredProcedure.csprojAssemblyReference.cache
+E:\Freelancing 2020\hANDS-ON\HandsOn_StoredProcedure\HandsOn_StoredProcedure\obj\Debug\HandsOn_StoredProcedure.csproj.CoreCompileInputs.cache
+E:\Freelancing 2020\hANDS-ON\HandsOn_StoredProcedure\HandsOn_StoredProcedure\obj\Debug\HandsOn_StoredProcedure.exe
+E:\Freelancing 2020\hANDS-ON\HandsOn_StoredProcedure\HandsOn_StoredProcedure\obj\Debug\HandsOn_StoredProcedure.pdb
